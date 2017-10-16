@@ -1,0 +1,19 @@
+{
+  "name": "vid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run bitch"
+  },
+  "author": "r2rka",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0"
+  }
+}
